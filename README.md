@@ -4,9 +4,8 @@ This is my first Git and GitHub assignment.
 
 ## About Me
 
-My name is Your Name.
-I am learning how to track code using Git and push code to Gi
-tHub.
+My name is Arun Sharma.
+I am learning how to track code using Git and push code to GistHub.
 
 ## Commands I Practiced
 
