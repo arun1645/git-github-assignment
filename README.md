@@ -5,7 +5,7 @@ This is my first Git and GitHub assignment.
 ## About Me
 
 My name is Arun Sharma.
-I am learning how to track code using Git and push code to GistHub.
+I am learning how to track code using Git and push code to GitHub.
 
 ## Commands I Practiced
 
